@@ -8134,6 +8134,7 @@ ul.u-text li:last-child {
   position: relative;
   text-align: center;
   padding: 1em;
+  padding-top: 0;
 }
 
 .u-backlink a:first-letter {
@@ -48581,6 +48582,7 @@ blockquote {
 .u-footer .u-text-1 {
   width: 417px;
   margin: 49px auto;
+  margin-bottom: 0;
 }
 
 @media (max-width: 1199px) {
